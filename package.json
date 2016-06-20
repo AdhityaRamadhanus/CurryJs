@@ -1,0 +1,23 @@
+{
+  "name": "curryjs",
+  "version": "0.1.0",
+  "description": "simple, naive, small library for currying function in javascript",
+  "main": "curry.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "keywords": [
+    "currying",
+    "functional programming",
+    "javascript",
+    "node.js",
+    "programming"
+  ],
+  "author": "Adhitya Ramadhanus",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "composejs": "^0.1.0",
+    "mocha": "^2.5.3"
+  }
+}
