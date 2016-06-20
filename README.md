@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/AdhityaRamadhanus/ComposeJs.svg?branch=master)](https://travis-ci.org/AdhityaRamadhanus/ComposeJs)
+[![Build Status](https://travis-ci.org/AdhityaRamadhanus/curryjs.svg?branch=master)](https://travis-ci.org/AdhityaRamadhanus/curryjs)
 
 <h1>CurryJs</h1>
 

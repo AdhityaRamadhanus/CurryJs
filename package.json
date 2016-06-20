@@ -19,5 +19,9 @@
     "chai": "^3.5.0",
     "composejs": "^0.1.0",
     "mocha": "^2.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdhityaRamadhanus/curryjs.git"
   }
 }
